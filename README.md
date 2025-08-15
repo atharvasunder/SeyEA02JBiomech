@@ -5,3 +5,5 @@ This is an implementation of a paper titled "A movement criterion for running" a
 1. spring-like leg operation
 2. a minimum running speed
 3. a proper adjustment of leg stiffness and angle of attack.
+
+The code present in this repository consists of a main MATLAB file along with files for plotting return maps.
